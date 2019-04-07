@@ -1,0 +1,36 @@
+{
+    "artboards": [
+        "/src/screens/Artboard.js",
+        "/src/screens/Home.js",
+        "/src/screens/Untitled.js"
+    ],
+    "symbols": [
+        "/src/symbols/MaterialIconsWhiteMoreVert1.js",
+        "/src/symbols/MaterialAndroidNavbar360DpBlack.js",
+        "/src/symbols/MaterialIconsWhiteMoreVert.js",
+        "/src/symbols/MaterialAndroidStatusBar360DpBlack.js",
+        "/src/symbols/MaterialIconsWhiteMenu.js",
+        "/src/symbols/MaterialIconsWhiteSearch.js",
+        "/src/symbols/MaterialAndroidStatusBarContentLight.js",
+        "/src/symbols/MaterialAndroidStatusBarContentLight1.js",
+        "/src/symbols/MaterialIconsWhiteArrowBack.js",
+        "/src/symbols/button3.js",
+        "/src/symbols/button5.js",
+        "/src/symbols/button51.js",
+        "/src/symbols/button7.js",
+        "/src/symbols/stackedLabel.js"
+    ],
+    "assets": [],
+    "defaultArtboardDirectory": "/src/screens",
+    "defaultSymbolDirectory": "/src/symbols",
+    "defaultAssetDirectory": "/src/assets",
+    "deviceName": "Samsung Note 8",
+    "deviceOrientation": "portrait",
+    "basePath": "/Users/npham6/Desktop/TeamUp/teamUp",
+    "tempPath": "/var/folders/h6/v2vntwrs7_5fddzhtgl0xn040000gn/T/BuilderHVxwtnN",
+    "useStylesheet": true,
+    "rulers": {},
+    "missingFonts": [
+        "Roboto-Medium"
+    ]
+}
